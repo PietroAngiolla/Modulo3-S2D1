@@ -1,0 +1,13 @@
+.list-group-item, .list-group{
+    background-color: transparent;
+    background: none;
+    color: white;
+}
+
+@media (min-width: 1024px){
+    .text-bg-dark{
+        width: fit-content;
+        height: auto;
+        margin: 0 auto;
+    };
+}
