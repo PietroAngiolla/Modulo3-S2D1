@@ -1,0 +1,7 @@
+.row{
+    row-gap: 20px;
+}
+
+.card-img-overlay{
+    font-weight: bold;
+}
